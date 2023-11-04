@@ -1,5 +1,5 @@
 # empmaster
 
-A Simple Employee attendance mobile app using Flutter. 
+A Simple employee attendance mobile app using Flutter. 
 
 
